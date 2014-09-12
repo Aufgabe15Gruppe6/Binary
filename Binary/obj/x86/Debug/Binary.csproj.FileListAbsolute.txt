@@ -1,0 +1,49 @@
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\bin\Debug\Binary.exe
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\bin\Debug\Binary.pdb
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\obj\x86\Debug\Binary.Form1.resources
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\obj\x86\Debug\Binary.exe
+C:\Users\Jakob\AppData\Local\Temporary Projects\Binary\obj\x86\Debug\Binary.pdb
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.exe
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.pdb
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.Form1.resources
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\bin\Debug\Binary.exe
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\bin\Debug\Binary.pdb
+C:\Users\Jakob\documents\visual studio 2010\Projects\Binary\Binary\obj\x86\Debug\Binary.csprojResolveAssemblyReference.cache
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.exe
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.pdb
+C:\Users\warmhold\Documents\Binary\Binary\bin\Debug\Binary.exe
+C:\Users\warmhold\Documents\Binary\Binary\bin\Debug\Binary.pdb
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.csprojResolveAssemblyReference.cache
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.Form1.resources
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+C:\Users\warmhold\Documents\Binary\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.exe
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.pdb
+G:\Binary2\Binary\Binary\bin\Debug\Binary.exe
+G:\Binary2\Binary\Binary\bin\Debug\Binary.pdb
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.csprojResolveAssemblyReference.cache
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.Form1.resources
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+G:\Binary2\Binary\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.exe
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.pdb
+I:\stick\Binary2\Binary\Binary\bin\Debug\Binary.exe
+I:\stick\Binary2\Binary\Binary\bin\Debug\Binary.pdb
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.csprojResolveAssemblyReference.cache
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.Form1.resources
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+I:\stick\Binary2\Binary\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
+J:\Binary\Binary\obj\x86\Debug\Binary.exe
+J:\Binary\Binary\obj\x86\Debug\Binary.pdb
+H:\Binary\Binary\obj\x86\Debug\Binary.exe
+H:\Binary\Binary\obj\x86\Debug\Binary.pdb
+J:\Binary\Binary\bin\Debug\Binary.exe
+J:\Binary\Binary\bin\Debug\Binary.pdb
+J:\Binary\Binary\obj\x86\Debug\Binary.csprojResolveAssemblyReference.cache
+J:\Binary\Binary\obj\x86\Debug\Binary.Form1.resources
+J:\Binary\Binary\obj\x86\Debug\Binary.Properties.Resources.resources
+J:\Binary\Binary\obj\x86\Debug\Binary.csproj.GenerateResource.Cache
